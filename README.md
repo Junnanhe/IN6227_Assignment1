@@ -1,4 +1,3 @@
-
 MDBGTW Playwright Copilot playbook
 How to use this file
 Save this file in the Playwright workspace, for example at docs/testing/MDBGTW_Playwright_Playbook.md. Keep the Playwright folder and MDBGTW UI source available in the same VS Code workspace.
